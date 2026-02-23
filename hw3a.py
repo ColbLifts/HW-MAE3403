@@ -1,4 +1,6 @@
 # hw3a.py
+
+#I used Copilot in this program
 from NumericalMethods import Probability, GPDF, Secant
 
 def one_sided_function(mu, sig, targetP, GT):

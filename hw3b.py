@@ -1,3 +1,5 @@
+#I used Copilot in this program
+
 from math import gamma, sqrt, pi
 
 def simpson_general(f, a, b, N=800):
